@@ -25,6 +25,11 @@ We answer the question: *"Why do I need to learn this?"* by linking every line o
 * **Biology:** Neural circuits, Signal transfer, Noise.
 * **Python:** Writing Functions (`def`), Gaussian Noise (`np.random`), Multi-trace plotting.
 
+### Part 4: The Art of Debugging
+**Goal:** Learn to identify and fix errors.
+* **Skill:** Reading Tracebacks (NameError, SyntaxError, TypeError).
+* **Challenge:** The "Broken Code" exercise—fixing a buggy simulation.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -33,8 +38,8 @@ You need Python installed (preferably via Anaconda).
 ### Installation
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/python-neuro-intro.git](https://github.com/your-username/python-neuro-intro.git)
-    cd python-neuro-intro
+    git clone [https://github.com/your-username/python-neuro-intro-imbizo2026.git](https://github.com/your-username/python-neuro-intro-imbizo2026.git)
+    cd python-neuro-intro-imbizo2026
     ```
 
 2.  Install dependencies:
